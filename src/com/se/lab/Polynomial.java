@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 //import java.io.*;
 
-
+//read readme.txt to learn how to use
 public class Polynomial {
 
 	static ArrayList<Monomial> poly;

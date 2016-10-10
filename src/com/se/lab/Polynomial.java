@@ -1,4 +1,4 @@
-package com.se.lab;
+﻿package com.se.lab;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -459,5 +459,5 @@ class Monomial{
 	
 }
 
-// this is a line which before next line
 // this is a line which do nothing
+// and this is another line doing nothing

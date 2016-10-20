@@ -1,4 +1,4 @@
-4*x+3*y+5
-!d/dx
-!simplify x=3 y=6
-!bye
+>>4*x+3*y+5
+>>!d/dx
+>>!simplify x=3 y=6
+>>!bye

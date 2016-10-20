@@ -1,0 +1,4 @@
+4*x+3*y+10
+!d/dx
+!simplify x=3 y=6
+!bye

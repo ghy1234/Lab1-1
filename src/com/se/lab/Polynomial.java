@@ -1,4 +1,4 @@
-//in branch B1
+//merge
 package com.se.lab;
 
 import java.util.ArrayList;

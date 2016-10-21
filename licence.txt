@@ -1,4 +1,4 @@
-pretend to be a licence.
-this is a extra line
+Pretend to be a licence.
+This is a extra line
 
-copyright weiyan 2016
+Copyright weiyan 2016

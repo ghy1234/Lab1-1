@@ -4,5 +4,5 @@ To use the Polynomial program, you have to follow the steps.
 2. Press enter to see if it is recognised.
 3. Input commands. you have three commands to choose: (1)!simplify [variable]=[number]  (2)!d/d[variable] (3)!bye
 4. Enjoy!
-
+so cool!
 Please install jre to support this program
